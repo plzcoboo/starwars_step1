@@ -1,0 +1,5 @@
+.SubMenu {
+    display: flex;
+    color: #fff;
+    li{margin-right: 10px; margin-bottom: 10px; cursor: pointer; &.on{color:#4CAF50;}}  
+}

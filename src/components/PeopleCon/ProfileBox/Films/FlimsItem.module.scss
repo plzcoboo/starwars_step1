@@ -1,0 +1,16 @@
+.FlimsItem {
+    margin-top: 10px;
+    box-sizing: border-box;
+    padding: 15px 0px;
+    text-align: left;
+    img {width: 80px; height: 110px;}
+    border-top: 1px solid #4CAF50;
+    h3 {color:azure; font-size: 18px;}
+    .ItemInfo{
+        margin-top:10px;
+        display: flex;
+        font-size: 14px;
+        color: azure;
+        span {display: block; margin-left: 10px;}
+    }
+}

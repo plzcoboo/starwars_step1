@@ -1,0 +1,5 @@
+.ProfileMenu{
+    color: #fff;
+    display: flex;
+    li{margin-right: 10px; cursor: pointer; &.on{color: #4CAF50}}
+}
